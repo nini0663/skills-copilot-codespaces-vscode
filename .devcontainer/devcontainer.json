@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     // Name this configuration
     "name": "Codespace for Skills!",
@@ -9,3 +10,16 @@
         }
     }
 }
+=======
+{
+    // Name this configuration
+    "name": "Codespace for Skills!",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot"
+            ]
+        }
+    }
+}
+>>>>>>> 2a84ac0033f51ca6ac2780dc12f0c2d0c6ef484c
